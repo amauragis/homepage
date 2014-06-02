@@ -1,6 +1,20 @@
-brghena-homepage
-================
+homepage
+========
 
-My personal homepage: [eecs.umich.edu/~brghena](http://eecs.umich.edu/~brghena "Branden Ghena Homepage")
+A personal homepage.
 
-Source gratefully stolen from Pat Pannuto [https://github.com/ppannuto/patpannuto.com](https://github.com/ppannuto/patpannuto.com)
+Source borrowed from [Branden Ghena](https://github.com/brghena/brghena-homepage) who "gracefully stole" from [Pat Pannuto](https://github.com/ppannuto/patpannuto.com)
+
+
+Requirements/Dependancies
+-------------------------
+
+Basically I'm pretty lazy and this is everything it took to make Branden's thing work in a fresh Ubuntu 14.04 VM
+
+- Python3.4
+	- sh
+	- markdown
+	- colorlog
+	- jinja2
+- PDFLaTeX
+- Make
