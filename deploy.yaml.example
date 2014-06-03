@@ -1,0 +1,4 @@
+---
+host:
+    address: user@hostname.com
+    path: path/to/wwwroot

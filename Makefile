@@ -2,9 +2,9 @@ SHELL := /bin/bash
 
 all:
 	./website.py
-#	$(MAKE) -C cv
-#	mkdir -p html/cv/
-#	cp -r cv/*.pdf html/cv/
+	$(MAKE) -C res
+	mkdir -p html/res/
+	cp -r res/*.pdf html/res/
 
 local:	all
 	pushd html && python3 -m http.server 8000; popd
@@ -15,7 +15,6 @@ deploy:	all
 clean: 
 	rm -rf html/
 	rm -rf __pycache__
-#	rm cv.tar.gz
-#	$(MAKE) -C cv clean
+	$(MAKE) -C res clean
 
 .PHONY: all local deploy clean
