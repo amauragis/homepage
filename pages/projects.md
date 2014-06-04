@@ -20,3 +20,20 @@ I was responsible for the design and implementation of the satellites communicat
 charge controller, and systems engineering.
 
 ![Oculus-ASR Exploded View](projects/oculus-exploded-web.jpg "Oculus-ASR Exploded View")
+
+---
+
+Equiangular Spiral Antenna
+--------------------------
+[[paper]](projects/antenna.pdf)
+
+One of my later courses at [MTU](www.mtu.edu) was in antenna design.  At the end of the course, students designed and modelled
+custom built antennas.  We chose to design an equiangular spiral antenna, [originally proposed by John Dyson in 1959](http://www.google.com/patents/US2958081).
+Our target bandwidth was 10:1, but due to construction problems, we were limited to a narrower band.
+
+The antenna was constructed using a 1/32" copper sheet fastened to an acrylic sheet for stability, and fed with a copper
+hardline.  We used FEKO to simulate the antenna results and verified them in an anechoic chamber on campus.
+
+![Antenna Construction](projects/antenna0.png "Antenna Construction") ![Antenna 1GHz Far Field](projects/antenna1.png "Antenna 1GHz Far Field")
+
+
