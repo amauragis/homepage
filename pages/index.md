@@ -5,7 +5,7 @@
         </td>
         <td width="25">&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td width="525" valign="top" align="left">
-            <h2>Andrew Mauragis</h2>
+            <h2>Andy Mauragis</h2>
             <p>andrew@mauragis.com
         </td>
     </tr>
@@ -13,11 +13,8 @@
 
 ---
 
-A website.  It isn't done.  The [Resume](res/apm.pdf) link works though.  Some day there may be stuff here that's valuable, unfortunately, that day is not today.
+I'm Andy, currently an embedded software engineer at [Precisive LLC](www.precisive-instruments.com) and a general technology
+enthusiast.
 
 ### News
- * No news
-
-<!--
-### Publications
--->
+ * **2014-May**: Started this crazy endeavor.
