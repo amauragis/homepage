@@ -5,6 +5,19 @@ This is a collection of interesting things I may have worked on, but right now i
 Feel free to contact me if you have any questions: andrew@mauragis.com
 
 ---
+Bofhwits: An IRC Bot
+--------------------
+[github](https://github.com/amauragis/bofhwits)
+
+This is a silly project in Go to handle quoting of an IRC channel.  It's a project I started to learn Go, and mess with some
+basic web integration.
+
+Basically someone says something funny, and you indicate to the bot that you thought this particular thing was funny. 
+The bot will then parse what you quoted it, and post it to twitter or another custom microblogging site. A particular 
+challenge of note is parsing a variety of potential input formats (because it must handle a copy and paste, and IRC
+clients are not particularly consistent in this regard).
+
+---
 
 Oculus-ASR
 ----------
