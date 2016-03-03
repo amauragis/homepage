@@ -13,9 +13,10 @@
 
 ---
 
-I'm Andy, currently an embedded software engineer at [Precisive LLC](http://www.precisive-instruments.com) and a general technology
+I'm Andy, currently a Camera Systems Engineer at [Gentex Corporation](http://www.gentex.com/) and a general technology
 enthusiast.
 
 ### News
+ * **2015-Jan**: Started new job at Gentex corporation.
  * **2014-Oct**: Updated projects page.
  * **2014-May**: Started this crazy endeavor.
