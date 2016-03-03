@@ -16,6 +16,7 @@ Basically I'm pretty lazy and this is everything it took to make Branden's thing
 	- markdown
 	- colorlog
 	- jinja2
+	- pyyaml
 - PDFLaTeX
 - Make
 
